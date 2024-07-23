@@ -1,0 +1,1 @@
+详情参考: [使用Logisim模拟8位CPU](https://suiyueyoung.github.io/2024/06/14/Emulate8-bitCPUWithLogisim/)
